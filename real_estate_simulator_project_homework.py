@@ -7,7 +7,6 @@ You can edit the global parameters at the top of the file.
 
 from dataclasses import dataclass
 from typing import List
-import math
 
 # Global simulation parameters
 PRICE = 500_000.0            # price of property - cena nieruchomości
